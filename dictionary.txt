@@ -85,4 +85,4 @@ Obvious/obviosness = cuale
 Steal = arrrr
 Account = bore
 Give = kindle
-
+from = agar
