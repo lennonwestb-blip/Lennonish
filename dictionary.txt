@@ -11,22 +11,22 @@ The = de
 Be/Is = i' 
 Have = art
 Make = fani
+Very = mucho
 
 Profile picture = expressify de pictora 
 Death = mori
 Tsa = hi
-
-
 See = perceptify
 Better/over = excessify
+
 Fun = amusa 
 Me = n'tu
 We = w'tu
 they = il'tu
 you = do'tu
-
 New = crono 
-Very = mucho
+
+
 Me too = similify
 Morning = sunnyriseyup
 Noon = sunnyupahead
