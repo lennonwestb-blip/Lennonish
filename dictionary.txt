@@ -1,17 +1,16 @@
 # NOTES
 * means "too englishy; change later"
 
+# TODO
+-standardize orthography
+
 # NOUNS
-blabber: language
-pary: word
+blabber: language (archaic)
+lengon: language
+parys: word
 mori: death
 pictora: photo
 expressify de pictora: profile picture
-* sunnyriseyup: morning
-* sunnyupahead: noon
-* sunnyafterupahead: afternoon
-* sunnygoeydown: evening 
-* sunnyatbutthole: night
 querle: question
 aplicatia: project
 inglais: english
@@ -28,12 +27,26 @@ delocker: translator
 beezt: surprise
 bore: account
 chompos: controls/commands
+locas: place
+
+don: sun
+lun: moon
+toy: up
+reyo: down
+
+dontoy: noon/day
+luntoy: night/midnight
+per dontoy: morning (before noon)
+per luntoy: evening 
+fos dontoy: afternoon
+fos luntoy: late night (0-5ish)
 
 # VERBS
+i': be
 art: have
 fani: make
 kindle: give
-* sunnyatbutthole mori: sleep
+luntoy mori: sleep
 perceptify: see
 clariate: clarify
 comprande: understand
@@ -42,6 +55,11 @@ repairo: fix
 shoota: create
 * tippytappy: type
 arrrr: steal
+resis: fight
+parysis: argue
+ake: happen/occur
+glazis: snow
+prata: can/be able to
 
 # ADJECTIVES
 crono: new
@@ -56,18 +74,18 @@ stand: normal
 epe: different
 * lockerpicked: encoded
 netter: online
-* vroomvroom: fast
+vroomvroom: fast
 * makeamedizzy: confused
 cogname: inspired
 * edulearnify: educational
 feary: great
 * blabbable: arguable
 cuale: obvious
+wi: multiple (plural when used as an adjective; wi parys = words)
 
 # CONJUNCTIONS
 arn: and
 ex: but
-i': is
 si: yes
 co: so
 altern: or
@@ -75,7 +93,6 @@ no: no
 ho: how
 o: of
 de: the
-i': be/is
 mucho: very
 solo/shell: only
 perposa: for
@@ -83,7 +100,8 @@ inclu: with
 partii: some
 agar: from 	(past tense (i did) when it comes before verbs (n'tu agar perceptify -> i saw))
 planna: will (future tense (i will do) when it comes before verbs (n'tu planna perceptify -> i will see))
-
+per: pre-
+fos: post-
 
 # PRONOUNS
 n'tu: me
