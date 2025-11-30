@@ -27,6 +27,7 @@ delocker: translator
 * eshootyfire: flair
 beezt: surprise
 bore: account
+chompos: controls/commands
 
 # VERBS
 art: have
